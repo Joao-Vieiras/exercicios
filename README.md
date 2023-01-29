@@ -1,2 +1,2 @@
 # exercicios
-Primeiras atividades feitas.
+Meu primeiro projeto no Github.
