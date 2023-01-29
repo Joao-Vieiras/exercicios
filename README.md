@@ -1,0 +1,2 @@
+# exercicios
+Primeiras atividades feitas.
